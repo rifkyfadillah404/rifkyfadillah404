@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning **Next.js, TypeScript, and Cloud Engineering**
 - 👨‍💻 Check out my portfolio at [rifkyfadillah404.github.io](https://rifkyfadillah404.github.io)
-- 📝 I regularly write articles on [my blog](https://dev.to/rifkyfadillah404) <!-- Ganti dengan blog kamu jika ada -->
+- 📝 I regularly write articles on [my blog]([https://dev.to/rifkyfadillah404](https://l.instagram.com/?u=https%3A%2F%2Frifkyfadillah404.github.io%2Fportofolio-web%2F%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAadacTCRtCR128rsPjsNjyryTbuaInqOc0HPMDcHBtA1iAmmu1i3vd0Vh_eFlQ_aem_yknpQIO47pVwFMFvw6UBaQ&e=AT3Iu1gXwXBdSBlDsdleYoyVHo0MQ8PIv_Sc1YpckpzN_SzEWIzjSBHHTgJiOMii_TCXU9lZPKx8UQ3qtKCvOvMVPr10WJc-51p4c5gxB9KgKaTV8DrG53Q)) <!-- Ganti dengan blog kamu jika ada -->
 - 💬 Ask me about **JavaScript, React, Node.js, Laravel, Flutter, DevOps, and Open Source**
 - ⚡ Fun fact: I love solving coding challenges and exploring new tech!
 
