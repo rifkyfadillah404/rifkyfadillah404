@@ -26,7 +26,7 @@
 - 🌱 I’m currently learning **Next.js, TypeScript, and Cloud Engineering**
 - 👨‍💻 Check out my portfolio at [rifkyfadillah404.github.io](https://rifkyfadillah404.github.io)
 - 📝 I regularly write articles on [my blog](https://dev.to/rifkyfadillah404) <!-- Ganti dengan blog kamu jika ada -->
-- 💬 Ask me about **JavaScript, React, Node.js, DevOps, and Open Source**
+- 💬 Ask me about **JavaScript, React, Node.js, Laravel, Flutter, DevOps, and Open Source**
 - ⚡ Fun fact: I love solving coding challenges and exploring new tech!
 
 ---
@@ -38,10 +38,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" />
   <!-- Tambah/kurangi sesuai skill -->
 </p>
 
