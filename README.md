@@ -114,13 +114,6 @@ const rifky = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifkyfadillah404&theme=tokyo-night&bg_color=1a1b27&color=00d4ff&line=ff00ff&point=00d4ff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rifkyfadillah404&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
 
 ---
 
