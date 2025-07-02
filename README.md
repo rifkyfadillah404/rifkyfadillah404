@@ -14,7 +14,21 @@
 ## 🚀 About Me
 
 ```javascript
-
+const rifky = {
+    pronouns: "He/Him",
+    location: "Jakarta, Indonesia 🇮🇩",
+    currentFocus: "Building amazing mobile and web applications",
+    funFact: "I love turning coffee into code ☕",
+    askMeAbout: ["Flutter", "Laravel", "React", "Mobile Development"],
+    technologies: {
+        mobile: ["Flutter", "Dart"],
+        frontend: ["React", "HTML5", "CSS3", "JavaScript", "Alpine.js"],
+        backend: ["Laravel", "PHP", "Node.js", "Express.js"],
+        database: ["MySQL", "Supabase"],
+        tools: ["Git", "GitHub", "Postman", "Figma"],
+        currentlyLearning: ["Advanced Flutter", "React Native", "TypeScript"]
+    }
+};
 ```
 
 ---
