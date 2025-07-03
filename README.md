@@ -88,7 +88,6 @@ const rifky = {
 ### 📱 Mobile Apps
 
 [![Monefy](https://github-readme-stats.vercel.app/api/pin/?username=rifkyfadillah404&repo=monefy&theme=tokyonight)](https://github.com/rifkyfadillah404/monefy)
-[![Sisfo-Sarpas-FE](https://github-readme-stats.vercel.app/api?username=rifkyfadillah404&show_icons=true&theme=tokyonight)](https://github.com/rifkyfadillah404/sisfo-sarpas-fe)
 
 
 ### 🌐 Web Applications
