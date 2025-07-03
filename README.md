@@ -86,12 +86,12 @@ const rifky = {
 <div align="center">
 
 ### 📱 Mobile Apps
-[![Sisfo-Sarpas](https://github-readme-stats.vercel.app/api/pin/?username=rifkyfadillah404&repo=sisfo-sarpas-be&theme=tokyonight)](https://github.com/rifkyfadillah404/sisfo-sarpas-be)
-[![GoodFood](https://github-readme-stats.vercel.app/api/pin/?username=rifkyfadillah404&repo=GoodFood&theme=tokyonight)](https://github.com/rifkyfadillah404/GoodFood)
+[![GoodFood](https://github-readme-stats.vercel.app/api/pin/?username=rifkyfadillah404&repo=sisfo-sarpas-fe&theme=tokyonight)](https://github.com/rifkyfadillah404/sisfo-sarpas-fe)
+[![Monefy](https://github-readme-stats.vercel.app/api/pin/?username=rifkyfadillah404&repo=monefy&theme=tokyonight)](https://github.com/rifkyfadillah404/monefy)
 
 ### 🌐 Web Applications
+[![Sisfo-Sarpas](https://github-readme-stats.vercel.app/api/pin/?username=rifkyfadillah404&repo=sisfo-sarpas-be&theme=tokyonight)](https://github.com/rifkyfadillah404/sisfo-sarpas-be)
 [![QuickShop](https://github-readme-stats.vercel.app/api/pin/?username=rifkyfadillah404&repo=quick-shop&theme=tokyonight)](https://github.com/rifkyfadillah404/quick-shop)
-[![Monefy](https://github-readme-stats.vercel.app/api/pin/?username=rifkyfadillah404&repo=monefy&theme=tokyonight)](https://github.com/rifkyfadillah404/monefy)
 
 </div>
 
