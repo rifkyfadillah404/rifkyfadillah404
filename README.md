@@ -1,82 +1,100 @@
 # Hi there, I'm Muhammad Rifky Fadillah! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Mobile+Developer;Frontend+Developer;Backend+Developer;Full+Stack+Developer;Junior+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Mobile+App+Developer;Problem+Solver;Code+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rifkyfadillah404&label=Profile%20views&color=00d4ff&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/rifkyfadillah404?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=rifkyfadillah404&label=Profile%20views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/rifkyfadillah404?label=Followers&style=for-the-badge&color=00d4ff" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/rifkyfadillah404?label=Stars&style=for-the-badge&color=ffd700" alt="GitHub Stars" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 ```javascript
-const rifky = {
+const rifkyFadillah = {
+    name: "Muhammad Rifky Fadillah",
     pronouns: "He/Him",
     location: "Jakarta, Indonesia 🇮🇩",
-    currentFocus: "Building amazing mobile and web applications",
-    funFact: "I love turning coffee into code ☕",
-    askMeAbout: ["Flutter", "Laravel", "React", "Mobile Development"],
-    technologies: {
-        mobile: ["Flutter", "Dart"],
-        frontend: ["React", "HTML5", "CSS3", "JavaScript", "Alpine.js"],
-        backend: ["Laravel", "PHP", "Node.js", "Express.js"],
-        database: ["MySQL", "Supabase"],
-        tools: ["Git", "GitHub", "Postman", "Figma"],
-        currentlyLearning: ["Advanced Flutter", "React Native", "TypeScript"]
-    }
+    currentRole: "Full Stack Developer",
+    passion: "Creating impactful digital solutions",
+    motto: "Code with purpose, debug with patience ☕",
+    
+    currentlyWorking: [
+        "Advanced Flutter Applications",
+        "Laravel Backend Systems",
+        "React Web Applications"
+    ],
+    
+    askMeAbout: [
+        "Mobile Development with Flutter",
+        "Web Development with Laravel & React",
+        "Database Design & Optimization",
+        "API Development & Integration"
+    ],
+    
+    funFacts: [
+        "I debug faster with coffee ☕",
+        "I love clean code and pixel-perfect UI",
+        "Always excited about new tech trends 🚀"
+    ]
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Arsenal
 
 <div align="center">
 
 ### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
+</p>
 
-### 🌐 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC34A?style=for-the-badge&logo=alpine.js&logoColor=black)
+### 🌐 Frontend Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,alpine&theme=dark" />
+</p>
 
-### ⚙️ Backend Development
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+### ⚙️ Backend Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express&theme=dark" />
+</p>
 
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,supabase,firebase&theme=dark" />
+</p>
 
-### 🛠️ Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 🛠️ Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,androidstudio&theme=dark" />
+</p>
+
+### 📚 Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,nextjs,docker&theme=dark" />
+</p>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rifkyfadillah404&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifkyfadillah404&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rifkyfadillah404&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifkyfadillah404&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifkyfadillah404&theme=tokyonight" alt="GitHub Streak" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rifkyfadillah404&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
 ---
@@ -85,57 +103,136 @@ const rifky = {
 
 <div align="center">
 
-### 📱 Mobile Apps
+### 📱 Mobile Applications
 
-[![Monefy](https://github-readme-stats.vercel.app/api/pin/?username=rifkyfadillah404&repo=monefy&theme=tokyonight)](https://github.com/rifkyfadillah404/monefy)
-
+<a href="https://github.com/rifkyfadillah404/monefy">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rifkyfadillah404&repo=monefy&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
 
 ### 🌐 Web Applications
-[![Sisfo-Sarpas](https://github-readme-stats.vercel.app/api/pin/?username=rifkyfadillah404&repo=sisfo-sarpas-be&theme=tokyonight)](https://github.com/rifkyfadillah404/sisfo-sarpas-be)
-[![QuickShop](https://github-readme-stats.vercel.app/api/pin/?username=rifkyfadillah404&repo=quick-shop&theme=tokyonight)](https://github.com/rifkyfadillah404/quick-shop)
+
+<a href="https://github.com/rifkyfadillah404/sisfo-sarpas-be">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rifkyfadillah404&repo=sisfo-sarpas-be&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+<a href="https://github.com/rifkyfadillah404/quick-shop">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rifkyfadillah404&repo=quick-shop&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
 
 </div>
 
 ---
 
-## 🎯 Current Goals
+## 🎯 2025 Goals & Focus
 
-- 🔭 I'm currently working on **Advanced Flutter Applications**
-- 🌱 I'm currently learning **React Native & TypeScript**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 🤔 I'm looking for help with **Advanced Backend Architecture**
-- 💬 Ask me about **Flutter, Laravel, React, or anything tech-related**
-- ⚡ Fun fact: **I can debug code faster with coffee ☕**
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**🚀 Technical Growth**
+- Master TypeScript & Next.js
+- Explore React Native
+- Advanced Flutter Animations
+- Docker & DevOps
+
+</td>
+<td align="center" width="33%">
+
+**🤝 Community Impact**
+- Contribute to Open Source
+- Write Technical Articles
+- Mentor Fellow Developers
+- Build Developer Tools
+
+</td>
+<td align="center" width="33%">
+
+**💼 Professional Development**
+- Lead Complex Projects
+- Improve System Architecture
+- Learn Cloud Technologies
+- Enhance Team Collaboration
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifkyfadillah404&theme=tokyo-night&bg_color=1a1b27&color=00d4ff&line=ff00ff&point=00d4ff&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
-
----
-
-## 📫 Let's Connect!
+## 💼 Professional Highlights
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifky-fadillah-a53523371/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mhmdrfkyfdillah/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285780520587)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rifkyfadillah404@gmail.com)
+| 🎯 Specialization | 💡 Experience | 🚀 Impact |
+|-------------------|---------------|-----------|
+| **Mobile Development** | Flutter & Dart Expert | Cross-platform solutions |
+| **Backend Systems** | Laravel & PHP Proficient | Scalable API development |
+| **Frontend Design** | React & Modern CSS | Responsive user interfaces |
+| **Database Management** | MySQL & Supabase | Optimized data structures |
 
 </div>
 
 ---
 
+## 📈 Contribution Activity
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="Footer" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifkyfadillah404&theme=tokyo-night&bg_color=0D1117&color=00d4ff&line=ff6b6b&point=00d4ff&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+## 🌟 Achievements & Recognition
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=rifkyfadillah404&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+</div>
+
+---
+
+## 📫 Let's Connect & Collaborate!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifky-fadillah-a53523371/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rifkyfadillah404@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285780520587)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mhmdrfkyfdillah/)
+
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🎵 Currently Coding To
+
+<div align="center">
+
+[![Spotify](https://novatorem-theta-blond.vercel.app/api/spotify)](https://open.spotify.com/user/31yqkpgq2tgkdcie3pkm7w2inomu)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer&animation=twinkling" />
 </div>
 
 <div align="center">
-  <h3>💖 Thanks for visiting my profile! 💖</h3>
-  <p>⭐ Don't forget to star some repositories if you find them interesting!</p>
+  <h2>🙏 Thank You for Visiting!</h2>
+  <p><strong>Let's build something amazing together! 🚀</strong></p>
+  <p>⭐ Star repositories you find interesting • 🍴 Fork and contribute • 📢 Share with others</p>
+  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Happy coding!</b> 😊</em>
 </div>
