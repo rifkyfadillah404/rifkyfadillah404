@@ -24,8 +24,6 @@ I love building things, learning new technologies, and collaborating with others
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat-square&logo=node.js)
 ![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
-![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat-square&logo=docker)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat-square&logo=linux)
