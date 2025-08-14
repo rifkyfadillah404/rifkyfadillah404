@@ -2,13 +2,13 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F;Problem+Solver+%F0%9F%A7%A9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Web+Developer+%F0%9F%8C%90;Open+Source+Contributor+%F0%9F%8C%9F;Problem+Solver+%F0%9F%A7%A9)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/rifky-fadillah-a53523371/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/rifkyfadillah404)
-[![Website](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://rifkyfadillah404.github.io)
+[![Website](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://portofolio-web-steel.vercel.app/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:rifkyfadillah404@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rifkyfadillah404&color=00D8FF&style=for-the-badge&label=PROFILE+VIEWS)
@@ -22,19 +22,19 @@
 ```javascript
 const rifky = {
     location: "Jakarta, Indonesia 🇮🇩",
-    currentFocus: "Building scalable applications & cloud solutions",
+    currentFocus: "Building scalable web applications",
     communities: ["Open Source", "Tech Meetups", "Developer Communities"],
     challenge: "Learning something new every day 📚",
     
     workingOn: {
-        🔥: "Personal SaaS projects",
+        🔥: "Personal web projects",
         🌱: "Contributing to open source",
-        ☁️: "Cloud architecture & DevOps automation"
+        💻: "Full-stack web development"
     },
     
     askMeAbout: [
-        "Full-stack development", "Cloud computing", 
-        "DevOps practices", "System design"
+        "Full-stack development", "Web development", 
+        "JavaScript", "Laravel", "System design"
     ]
 };
 ```
@@ -42,11 +42,11 @@ const rifky = {
 <img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### 🚀 **What I Do**
-- 💻 **Full-Stack Development** - Building end-to-end applications
-- ☁️ **Cloud Architecture** - Designing scalable cloud solutions  
-- 🔧 **DevOps & Automation** - Streamlining development workflows
+- 💻 **Full-Stack Development** - Building end-to-end web applications
+- 🌐 **Web Development** - Creating responsive and interactive websites  
+- 🛠️ **Backend Development** - Building robust server-side applications
 - 🤝 **Open Source** - Contributing to community projects
-- 📱 **Mobile Development** - Creating cross-platform experiences
+- 📱 **Frontend Development** - Creating modern user interfaces
 
 ### 🎵 **Fun Facts**
 - ☕ Coffee enthusiast (probably drinking one right now!)
@@ -65,6 +65,7 @@ const rifky = {
 ### **Languages**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### **Frontend**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -77,12 +78,12 @@ const rifky = {
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### **Tools & Others**
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -121,11 +122,22 @@ const rifky = {
 
 ---
 
-## 📈 **Contribution Graph**
+## 🌟 **Featured Projects**
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rifkyfadillah404/rifkyfadillah404/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<a href="https://github.com/rifkyfadillah404/spp-sekolah">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkyfadillah404&repo=spp-sekolah&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8FF&icon_color=00D8FF&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/rifkyfadillah404/sisfo-sarpas-fe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkyfadillah404&repo=sisfo-sarpas-fe&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8FF&icon_color=00D8FF&text_color=C9D1D9" />
+</a>
+
+</div>
+
+<div align="center">
+  
+### 🔗 **[View All Projects →](https://github.com/rifkyfadillah404?tab=repositories)**
 
 </div>
 
@@ -141,8 +153,7 @@ const rifky = {
 *Whether it's about tech, collaboration opportunities, or just a friendly chat*
 
 [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifky-fadillah-a53523371/)
-[![Twitter](https://img.shields.io/badge/-Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rifkyfadillah04)
-[![Instagram](https://img.shields.io/badge/-Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rifkyfadillah404)
+[![Instagram](https://img.shields.io/badge/-Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mhmdrfkyfdillah)
 
 </div>
 
