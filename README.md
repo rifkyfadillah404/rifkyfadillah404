@@ -106,7 +106,7 @@ const rifky = {
 
 <div align="center">
   
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rifkyfadillah404&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D8FF&line=00D8FF&point=C9D1D9)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rifkyfadillah404&theme=synthwave&hide_border=true&bg_color=0D1117&color=00D8FF&line=00D8FF&point=C9D1D9)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
