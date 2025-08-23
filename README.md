@@ -30,17 +30,6 @@ const rifky = {
 **Database:** MySQL • MongoDB  
 **Tools:** VS Code • Figma • Postman • Git 
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifkyfadillah404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8FF&icon_color=00D8FF&text_color=C9D1D9&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rifkyfadillah404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=C9D1D9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rifkyfadillah404&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
 
 ## 🤝 Let's Connect
 
